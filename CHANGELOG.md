@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-25)
+## Unreleased (2025-06-07)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`1a34934`](https://github.com/stdlib-js/stdlib/commit/1a349345ab14ff961594d888c2130f998047f209) - **test:** add test cases for `blas/base/strsv` [(#7166)](https://github.com/stdlib-js/stdlib/pull/7166) _(by Shabareesh Shetty)_
+-   [`44d408f`](https://github.com/stdlib-js/stdlib/commit/44d408f29e90ec7932cd46644f990c66c13b8bdb) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`15a7123`](https://github.com/stdlib-js/stdlib/commit/15a712368f65c35d45ee6ae2e8f573a0304fac5c) - **docs:** document exceptions in `blas/base/strsv` [(#6744)](https://github.com/stdlib-js/stdlib/pull/6744) _(by Shabareesh Shetty)_
 -   [`a45c18d`](https://github.com/stdlib-js/stdlib/commit/a45c18d8a9a109cc2f4b3d69625c39ef4c909f4c) - **test:** add test cases for `blas/base/strsv` [(#6721)](https://github.com/stdlib-js/stdlib/pull/6721) _(by Shabareesh Shetty)_
 -   [`4ca068f`](https://github.com/stdlib-js/stdlib/commit/4ca068f174225d1eaec123656682589febf1b547) - **test:** update to test for exact equality [(#2864)](https://github.com/stdlib-js/stdlib/pull/2864) _(by Aman Bhansali)_
