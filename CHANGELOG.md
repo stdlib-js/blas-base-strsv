@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-16)
+## Unreleased (2026-04-17)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#11490](https://github.com/stdlib-js/stdlib/issues/11490)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`15486dd`](https://github.com/stdlib-js/stdlib/commit/15486dd0fd476b34264b9773b2724d3b59484da5) - **test:** incorrect fixture import path in `strsv` [(#11491)](https://github.com/stdlib-js/stdlib/pull/11491) _(by Divit Jain)_
 -   [`a503990`](https://github.com/stdlib-js/stdlib/commit/a503990551e29e0152560945aa621f05bff97af1) - **docs:** fix parameter description in `blas/base/strsv` [(#11466)](https://github.com/stdlib-js/stdlib/pull/11466) _(by Kaustubh Patange)_
 -   [`23afcd1`](https://github.com/stdlib-js/stdlib/commit/23afcd14843e27539f59f83026a53cabe4bb3a1c) - **bench:** refactor to use string interpolation in `blas/base/strsv` [(#10463)](https://github.com/stdlib-js/stdlib/pull/10463) _(by Lokesh Ranjan)_
 
@@ -25,8 +38,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Divit Jain
 -   Kaustubh Patange
 -   Lokesh Ranjan
 
