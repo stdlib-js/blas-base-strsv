@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-18)
+## Unreleased (2026-11-03)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`3e6912e`](https://github.com/stdlib-js/stdlib/commit/3e6912e62a4bfb53adba1403b44546e3c6f389e2) - **refactor:** add support for enums in `blas/base/strsv` [(#13519)](https://github.com/stdlib-js/stdlib/pull/13519) _(by Kaustubh Patange)_
 -   [`15486dd`](https://github.com/stdlib-js/stdlib/commit/15486dd0fd476b34264b9773b2724d3b59484da5) - **test:** incorrect fixture import path in `strsv` [(#11491)](https://github.com/stdlib-js/stdlib/pull/11491) _(by Divit Jain)_
 -   [`a503990`](https://github.com/stdlib-js/stdlib/commit/a503990551e29e0152560945aa621f05bff97af1) - **docs:** fix parameter description in `blas/base/strsv` [(#11466)](https://github.com/stdlib-js/stdlib/pull/11466) _(by Kaustubh Patange)_
@@ -39,11 +40,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Divit Jain
 -   Kaustubh Patange
 -   Lokesh Ranjan
+-   Philipp Burckhardt
 
 </section>
 
